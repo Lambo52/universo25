@@ -477,7 +477,7 @@ traumalevel
 traumalevel
 0
 25
-10.0
+0.0
 1
 1
 NIL
@@ -517,7 +517,7 @@ PLOT
 441
 958
 591
-stress maschi-insani
+stress maschi/insani
 tempo
 stress medio
 0.0
